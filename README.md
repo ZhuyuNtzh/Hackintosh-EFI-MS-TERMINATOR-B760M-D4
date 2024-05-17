@@ -23,5 +23,4 @@
 |事项|说明|
 --- | ---
 |三码|请自行更换三码！！！| 
-|网卡|更换网卡会破坏保修防拆贴，请自行决定是否更换网卡| 
 |USB定制|![铭瑄B760M终结者+D31（1A1C）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-MS-TERMINATOR-B760M-D4/assets/115443114/cd32460f-2981-42cc-915c-e12168bd4a10)|
